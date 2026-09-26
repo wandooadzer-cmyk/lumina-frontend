@@ -1,0 +1,18 @@
+{
+  "default_branch": "main",
+  "branches": [
+    "feat/registry-reputation-and-pagination",
+    "main",
+    "origin"
+  ],
+  "parent": {
+    "feat/registry-reputation-and-pagination": "main",
+    "main": null,
+    "origin": "main"
+  },
+  "order": [
+    "main",
+    "feat/registry-reputation-and-pagination",
+    "origin"
+  ]
+}
